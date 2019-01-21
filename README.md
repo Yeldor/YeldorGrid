@@ -10,4 +10,4 @@ I re-created the classic game snake using this code ( https://github.com/Yeldor/
 I prefered this over the grid layout as the grid layout manager did not have true XY coordinates (that i know of at least). 
 Just pasing around nodes and such. 
 
-This code can be used for anything!
+This code can be used for any purpose!
