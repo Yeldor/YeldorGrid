@@ -1,6 +1,8 @@
-
+/* CREATED BY YELDOR
+ * VISIT GITHUB.COM/YELDOR FOR MORE
+ * THIS CODE IS ONLY USUABLE FOR NON-PROFIT & EDUCATIONAL USE
+ */
 import java.util.Random;
-
 import javafx.scene.Node;
 import javafx.scene.layout.Pane;
 
@@ -106,3 +108,4 @@ public class YeldorGrid extends Pane {
 	}
 	
 }
+// VERSION AS OF 3/17/2019
